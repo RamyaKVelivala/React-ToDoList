@@ -1,0 +1,43 @@
+.react-todo {
+  width: 600;
+  height: 600;
+  align: center;
+  margin: 0 auto;
+  margin-top: 60; }
+  .react-todo .title {
+    border-radius: 10px;
+    background: #ADADAD;
+    margin-left: 30;
+    padding: 20 0 0 135;
+    width: 400;
+    height: 50;
+    align: center;
+    vertical-align: center;
+    font-family: cursive;
+    font-size: 20;
+    font-weight: bold; }
+  .react-todo .title-space {
+    padding: 20; }
+  .react-todo .todo-section {
+    background-color: #41B3A3;
+    width: 600;
+    height: 700;
+    border-radius: 10px; }
+  .react-todo .add-item {
+    padding: 60 0 0 200; }
+  .react-todo .item-input {
+    border-radius: 8px;
+    padding: 10;
+    margin-right: 15px; }
+  .react-todo .button-color {
+    border-radius: 5px;
+    padding: 10;
+    background-color: #ADADAD; }
+  .react-todo .list-of-items {
+    margin: 40 0 0 30;
+    padding: 20;
+    border-radius: 10px;
+    background: #E3E2DF;
+    width: 500;
+    height: 500; }
+

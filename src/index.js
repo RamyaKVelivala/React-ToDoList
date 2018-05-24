@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Counter from './Counter';
- 
+import ReactToDo from './react-todo';
+
 document.addEventListener('DOMContentLoaded', function() {
   ReactDOM.render(
-    React.createElement(Counter),
-    document.getElementById('mount')
+    React.createElement(ReactToDo),
+    document.getElementById('reactToDoMain')
   );
 });
